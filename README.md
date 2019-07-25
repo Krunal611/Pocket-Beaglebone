@@ -1,4 +1,4 @@
-# Pocket-beaglebone
+# *Pocket-beaglebone*
 Pocketbeaglebone basics and pocketbeaglebone plus pixy connections
 
 
